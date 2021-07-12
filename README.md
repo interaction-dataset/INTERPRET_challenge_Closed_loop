@@ -71,5 +71,10 @@ cd deploy
 ./make_image.sh my_predictor
 ```
 
+## Metric
+Please read the [Metrics_for_the_Closed_Loop_Track_of_the_INTERPRET_Challenge.pdf](./Metrics_for_the_Closed_Loop_Track_of_the_INTERPRET_Challenge.pdf) in the directory.
+
+
+
 **Contact**
 If you have any questions, please submit an issue in this repo. 
